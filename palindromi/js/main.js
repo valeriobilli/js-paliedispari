@@ -1,3 +1,5 @@
+// svolto durante la correzione a lezione
+
 let parola = prompt("Inserisci una parola");
 console.log("Hai scelto:", parola);
 

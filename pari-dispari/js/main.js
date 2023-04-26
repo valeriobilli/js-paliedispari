@@ -1,3 +1,5 @@
+// svolto durante la correzione a lezione
+
 let inputUtenteOk = false;
 let numeroUtente;
 
